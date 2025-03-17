@@ -1,2 +1,2 @@
 # My-Interests
-Repo for my site, on which I will update daily on a bunch of things that interest me!
+A page for a bunch of my smaller projects that interest me!
