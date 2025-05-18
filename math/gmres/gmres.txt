@@ -1,0 +1,22 @@
+# Overview
+This folder is about my process learning about the GMRES
+(Generalized Minimal RESiduals) algorithm. Essentially, GMRES
+is an algorithm that solves the least squares problem for a linear
+system Ax = b using an iterative technique.
+
+## Background
+
+### Krylov Subspace and Cayley Hamilton
+
+## Derivation
+
+### Arnoldi Process
+
+
+## Convergence Criterion
+
+
+## Restarted GMRES
+
+
+## More
